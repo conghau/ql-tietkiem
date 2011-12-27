@@ -1,0 +1,830 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B55343E1-CBA1-4110-BC2C-6EBC7A8BEA6A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TIETKIEM</RootNamespace>
+    <AssemblyName>TIETKIEM</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+    <StartupObject>TIETKIEM.Program</StartupObject>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationIcon>bank.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DocumentationFile>
+    </DocumentationFile>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\TIETKIEM.XML</DocumentationFile>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\C shap- Winform\TruongCongHau_09520406\TruongCongHau_09520406\09520406\W_Explorer\bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v10.2.Core, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.CodeParser.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.CodeRush.Common, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.CodeRush.Core, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.CodeRush.Interop, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.CodeRush.StructuralParser, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.CodeRush.VSCore, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls.Utils.v6.3, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls.XtraBars.v6.3, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls.XtraEditors.v6.3, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls.XtraTreeList.v6.3, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Localization, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Parser, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Platform, Version=10.2.6.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Win.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.OfficeSkins.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.Base.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v10.2.Core, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v10.2.Core, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.SpellChecker.v10.2.Core, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v10.2.Extensions, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v10.2.UI, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v10.2.Design, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v10.2.Design, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.2.Extensions, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v10.2.Core, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v10.2.Extensions, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraSpellChecker.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraWizard.v10.2, Version=10.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Extensibility, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualStudio.Shell, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VSLangProj, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\ACCOUNT.cs" />
+    <Compile Include="Business\BAO_CAO_DSHD_NGAY.cs" />
+    <Compile Include="Business\BAO_CAO_MO_DONG_SO_THANG.cs" />
+    <Compile Include="Business\CT_BC_MO_DONG_SO_THANG.cs" />
+    <Compile Include="Business\GIAO_DICH.cs" />
+    <Compile Include="Business\Controller.cs" />
+    <Compile Include="Business\KHACH_HANG.cs" />
+    <Compile Include="Business\LOAI_GD.cs" />
+    <Compile Include="Business\LOAI_TIET_KIEM.cs" />
+    <Compile Include="Business\PHAN_QUYEN.cs" />
+    <Compile Include="Business\SO_TIET_KIEM.cs" />
+    <Compile Include="Business\thamso.cs" />
+    <Compile Include="ChiTiet_SoTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChiTiet_SoTK.Designer.cs">
+      <DependentUpon>ChiTiet_SoTK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection\Connect.cs" />
+    <Compile Include="DataAccess\DataAccess.cs" />
+    <Compile Include="Chart\DS_Chart.cs">
+      <DependentUpon>DS_Chart.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Chart\DS_Chart.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Chart.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Chart\DS_Chart_Doanh_so_Trong_Thang.cs">
+      <DependentUpon>DS_Chart_Doanh_so_Trong_Thang.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Chart\DS_Chart_Doanh_so_Trong_Thang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Chart_Doanh_so_Trong_Thang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Chart\DS_Chart_Dong_Mo_So.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Chart_Dong_Mo_So.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Chart\DS_Doanh_Thu_Theo_MLTK_trong_Thang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Doanh_Thu_Theo_MLTK_trong_Thang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\ACCOUNT.cs" />
+    <Compile Include="Entities\BAO_CAO_DSHD_NGAY.cs" />
+    <Compile Include="Entities\BAO_CAO_MO_DONG_SO_THANG.cs" />
+    <Compile Include="Entities\CT_BC_MO_DONG_SO_THANG.cs" />
+    <Compile Include="Entities\GIAO_DICH.cs" />
+    <Compile Include="Entities\KHACH_HANG.cs" />
+    <Compile Include="Entities\LOAI_GD.cs" />
+    <Compile Include="Entities\LOAI_TIET_KIEM.cs" />
+    <Compile Include="Entities\PHAN_QUYEN.cs" />
+    <Compile Include="Entities\SO_TIET_KIEM.cs" />
+    <Compile Include="Entities\THAM_SO.cs" />
+    <Compile Include="fmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmLogin.Designer.cs">
+      <DependentUpon>fmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmAbout.Designer.cs">
+      <DependentUpon>fmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmMain.Designer.cs">
+      <DependentUpon>fmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmQuyDinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmQuyDinh.Designer.cs">
+      <DependentUpon>fmQuyDinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_Chart_BC_DSHD_Thang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_Chart_BC_DSHD_Thang.Designer.cs">
+      <DependentUpon>fm_Chart_BC_DSHD_Thang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_Chart_Dong_Mo_So_Thang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_Chart_Dong_Mo_So_Thang.Designer.cs">
+      <DependentUpon>fm_Chart_Dong_Mo_So_Thang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_ChiTiet_GD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_ChiTiet_GD.Designer.cs">
+      <DependentUpon>fm_ChiTiet_GD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_Doi_Mat_Khau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_Doi_Mat_Khau.Designer.cs">
+      <DependentUpon>fm_Doi_Mat_Khau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_DS_all_STK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_DS_all_STK.Designer.cs">
+      <DependentUpon>fm_DS_all_STK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_Giao_Dich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_Giao_Dich.Designer.cs">
+      <DependentUpon>fm_Giao_Dich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_Chart_Doanh_so_Trong_Thang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_Chart_Doanh_so_Trong_Thang.Designer.cs">
+      <DependentUpon>fm_Chart_Doanh_so_Trong_Thang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintRibbonControllerResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Quanlichitiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quanlichitiet.Designer.cs">
+      <DependentUpon>Quanlichitiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quan_li_Tai_Khoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quan_li_Tai_Khoan.Designer.cs">
+      <DependentUpon>Quan_li_Tai_Khoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\DS_BC_Mo_Dong_So_Thang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_BC_Mo_Dong_So_Thang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DS_ChiTiet_SoTK.cs">
+      <DependentUpon>DS_ChiTiet_SoTK.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\DS_ChiTiet_SoTK.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_ChiTiet_SoTK.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DS_DSHD_Ngay.cs">
+      <DependentUpon>DS_DSHD_Ngay.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DS_DSHD_Ngay.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_DSHD_Ngay.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DS_GiaoDich.cs">
+      <DependentUpon>DS_GiaoDich.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\DS_GiaoDich.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_GiaoDich.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DS_SoTietKiem.cs">
+      <DependentUpon>DS_SoTietKiem.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\DS_SoTietKiem.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_SoTietKiem.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_BC_DSHD_NGAY.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_BC_DSHD_NGAY.Designer.cs">
+      <DependentUpon>Xtra_rpt_BC_DSHD_NGAY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_BC_Mo_Dong_So_Thang.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_BC_Mo_Dong_So_Thang.Designer.cs">
+      <DependentUpon>Xtra_rpt_BC_Mo_Dong_So_Thang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_DS_all_STK.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_DS_all_STK.Designer.cs">
+      <DependentUpon>Xtra_rpt_DS_all_STK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_Phieu_GiaoDich.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_Phieu_GiaoDich.Designer.cs">
+      <DependentUpon>Xtra_rpt_Phieu_GiaoDich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_Print_SoTK.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_Print_SoTK.Designer.cs">
+      <DependentUpon>Xtra_rpt_Print_SoTK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\DS_KhachHang1.cs">
+      <DependentUpon>DS_KhachHang1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\DS_KhachHang1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_KhachHang1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="fmLoaiTietKiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmLoaiTietKiem.Designer.cs">
+      <DependentUpon>fmLoaiTietKiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt_GiaoDich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpt_GiaoDich.Designer.cs">
+      <DependentUpon>rpt_GiaoDich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities.cs" />
+    <Compile Include="fmMoSoTietKiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmMoSoTietKiem.Designer.cs">
+      <DependentUpon>fmMoSoTietKiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XRDesignRibbonControllerResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>XRDesignRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="In_DS_KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="In_DS_KhachHang.Designer.cs">
+      <DependentUpon>In_DS_KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_BC_DongMoSoThang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_BC_DongMoSoThang.Designer.cs">
+      <DependentUpon>fm_BC_DongMoSoThang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fm_BC_DSHD_ngay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fm_BC_DSHD_ngay.Designer.cs">
+      <DependentUpon>fm_BC_DSHD_ngay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_DanhsachKhachHang.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Xtra_rpt_DanhsachKhachHang.Designer.cs">
+      <DependentUpon>Xtra_rpt_DanhsachKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quanlichitiet_qltq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quanlichitiet_qltq.Designer.cs">
+      <DependentUpon>Quanlichitiet_qltq.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ChiTiet_SoTK.resx">
+      <DependentUpon>ChiTiet_SoTK.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmAbout.resx">
+      <DependentUpon>fmAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmLoaiTietKiem.resx">
+      <DependentUpon>fmLoaiTietKiem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmLogin.resx">
+      <DependentUpon>fmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmMain.resx">
+      <DependentUpon>fmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmQuyDinh.resx">
+      <DependentUpon>fmQuyDinh.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_Chart_BC_DSHD_Thang.resx">
+      <DependentUpon>fm_Chart_BC_DSHD_Thang.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_Chart_Dong_Mo_So_Thang.resx">
+      <DependentUpon>fm_Chart_Dong_Mo_So_Thang.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_ChiTiet_GD.resx">
+      <DependentUpon>fm_ChiTiet_GD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_Doi_Mat_Khau.resx">
+      <DependentUpon>fm_Doi_Mat_Khau.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_DS_all_STK.resx">
+      <DependentUpon>fm_DS_all_STK.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_Giao_Dich.resx">
+      <DependentUpon>fm_Giao_Dich.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_Chart_Doanh_so_Trong_Thang.resx">
+      <DependentUpon>fm_Chart_Doanh_so_Trong_Thang.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PrintRibbonControllerResources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quanlichitiet.resx">
+      <DependentUpon>Quanlichitiet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quan_li_Tai_Khoan.resx">
+      <DependentUpon>Quan_li_Tai_Khoan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Xtra_rpt_BC_DSHD_NGAY.resx">
+      <DependentUpon>Xtra_rpt_BC_DSHD_NGAY.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Xtra_rpt_BC_Mo_Dong_So_Thang.resx">
+      <DependentUpon>Xtra_rpt_BC_Mo_Dong_So_Thang.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Xtra_rpt_DS_all_STK.resx">
+      <DependentUpon>Xtra_rpt_DS_all_STK.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Xtra_rpt_Phieu_GiaoDich.resx">
+      <DependentUpon>Xtra_rpt_Phieu_GiaoDich.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Xtra_rpt_Print_SoTK.resx">
+      <DependentUpon>Xtra_rpt_Print_SoTK.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmMoSoTietKiem.resx">
+      <DependentUpon>fmMoSoTietKiem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_GiaoDich.resx">
+      <DependentUpon>rpt_GiaoDich.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XRDesignRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>XRDesignRibbonControllerResources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="In_DS_KhachHang.resx">
+      <DependentUpon>In_DS_KhachHang.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_BC_DongMoSoThang.resx">
+      <DependentUpon>fm_BC_DongMoSoThang.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fm_BC_DSHD_ngay.resx">
+      <DependentUpon>fm_BC_DSHD_ngay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Xtra_rpt_DanhsachKhachHang.resx">
+      <DependentUpon>Xtra_rpt_DanhsachKhachHang.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quanlichitiet_qltq.resx">
+      <DependentUpon>Quanlichitiet_qltq.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DS_BC_Mo_Dong_So_Thang.xsc">
+      <DependentUpon>DS_BC_Mo_Dong_So_Thang.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_BC_Mo_Dong_So_Thang.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_BC_Mo_Dong_So_Thang.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DS_BC_Mo_Dong_So_Thang.xss">
+      <DependentUpon>DS_BC_Mo_Dong_So_Thang.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_ChiTiet_SoTK.xsc">
+      <DependentUpon>DS_ChiTiet_SoTK.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_ChiTiet_SoTK.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_ChiTiet_SoTK.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DS_ChiTiet_SoTK.xss">
+      <DependentUpon>DS_ChiTiet_SoTK.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_DSHD_Ngay.xsc">
+      <DependentUpon>DS_DSHD_Ngay.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_DSHD_Ngay.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_DSHD_Ngay.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DS_DSHD_Ngay.xss">
+      <DependentUpon>DS_DSHD_Ngay.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_SoTietKiem.xsc">
+      <DependentUpon>DS_SoTietKiem.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_SoTietKiem.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_SoTietKiem.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DS_SoTietKiem.xss">
+      <DependentUpon>DS_SoTietKiem.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_KhachHang1.xsc">
+      <DependentUpon>DS_KhachHang1.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_KhachHang1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_KhachHang1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="report\DS_KhachHang1.xss">
+      <DependentUpon>DS_KhachHang1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\ChiNanhGD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Chart\DS_Chart.xsc">
+      <DependentUpon>DS_Chart.xsd</DependentUpon>
+    </None>
+    <None Include="Chart\DS_Chart.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Chart.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Chart\DS_Chart.xss">
+      <DependentUpon>DS_Chart.xsd</DependentUpon>
+    </None>
+    <None Include="Chart\DS_Chart_Doanh_so_Trong_Thang.xsc">
+      <DependentUpon>DS_Chart_Doanh_so_Trong_Thang.xsd</DependentUpon>
+    </None>
+    <None Include="Chart\DS_Chart_Doanh_so_Trong_Thang.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Chart_Doanh_so_Trong_Thang.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Chart\DS_Chart_Doanh_so_Trong_Thang.xss">
+      <DependentUpon>DS_Chart_Doanh_so_Trong_Thang.xsd</DependentUpon>
+    </None>
+    <None Include="Chart\DS_Chart_Dong_Mo_So.xsc">
+      <DependentUpon>DS_Chart_Dong_Mo_So.xsd</DependentUpon>
+    </None>
+    <None Include="Chart\DS_Chart_Dong_Mo_So.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Chart_Dong_Mo_So.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Chart\DS_Chart_Dong_Mo_So.xss">
+      <DependentUpon>DS_Chart_Dong_Mo_So.xsd</DependentUpon>
+    </None>
+    <None Include="Chart\DS_Doanh_Thu_Theo_MLTK_trong_Thang.xsc">
+      <DependentUpon>DS_Doanh_Thu_Theo_MLTK_trong_Thang.xsd</DependentUpon>
+    </None>
+    <None Include="Chart\DS_Doanh_Thu_Theo_MLTK_trong_Thang.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Doanh_Thu_Theo_MLTK_trong_Thang.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Chart\DS_Doanh_Thu_Theo_MLTK_trong_Thang.xss">
+      <DependentUpon>DS_Doanh_Thu_Theo_MLTK_trong_Thang.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Portfolio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\column-chart-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webdev-about-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-project-development-close-all-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-0-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-as-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="report\DS_GiaoDich.xsc">
+      <DependentUpon>DS_GiaoDich.xsd</DependentUpon>
+    </None>
+    <None Include="report\DS_GiaoDich.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_GiaoDich.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DS_GiaoDich.xss">
+      <DependentUpon>DS_GiaoDich.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bank.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

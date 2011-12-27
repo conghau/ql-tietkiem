@@ -1,0 +1,286 @@
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmAbout.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmLoaiTietKiem.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmLogin.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmMain.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmQuyDinh.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.Properties.Resources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmChangePass.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.Them_RutTien.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmMoSoTietKiem.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.csproj.GenerateResource.Cache
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.exe.licenses
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.exe
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.pdb
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.exe
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.pdb
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.FmQuanly.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_RutTien.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_GuiThemTien.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.PrintRibbonControllerResources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XRDesignRibbonControllerResources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.exe.config
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.ChiTiet_SoTK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.XtraReport_Print_SoTK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.In_DS_KhachHang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XtraReport_DanhsachKhachHang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_DS_all_STK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.XtraReport_DS_all_STK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.XtraReport1.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XtraForm1.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.exe.config
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.exe
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.pdb
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.ChiTiet_SoTK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmAbout.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmLoaiTietKiem.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmLogin.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmMain.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmQuyDinh.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_DS_all_STK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_Giao_Dich.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_RutTien.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.PrintRibbonControllerResources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.Properties.Resources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmChangePass.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.FmQuanly.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.XtraReport1.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.XtraReport_DS_all_STK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.XtraReport_Print_SoTK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.Them_RutTien.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmMoSoTietKiem.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XRDesignRibbonControllerResources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.In_DS_KhachHang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XtraForm1.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XtraForm2.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XtraReport_DanhsachKhachHang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.csproj.GenerateResource.Cache
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.exe.licenses
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.exe
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.pdb
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.XML
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.BonusSkins.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.CodeParser.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Charts.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Data.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.ExpressApp.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.ExpressApp.Win.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.OfficeSkins.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Persistent.Base.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.PivotGrid.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.RichEdit.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.SpellChecker.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Utils.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Xpo.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraBars.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.Extensions.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraEditors.v10.2.Design.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraEditors.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraGrid.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraLayout.v10.2.Design.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraLayout.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraNavBar.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraPivotGrid.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraPrinting.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraReports.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraReports.v10.2.Extensions.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraRichEdit.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.Extensions.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraSpellChecker.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraTreeList.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraVerticalGrid.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraWizard.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.RichEdit.v10.2.Core.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.Extensions.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraGrid.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraVerticalGrid.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraSpellChecker.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraBars.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraRichEdit.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Utils.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.ExpressApp.Win.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.PivotGrid.v10.2.Core.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.SpellChecker.v10.2.Core.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraLayout.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.Core.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraPivotGrid.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Persistent.Base.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraTreeList.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraPrinting.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraReports.v10.2.Extensions.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraNavBar.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraEditors.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.Extensions.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Data.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraWizard.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.ExpressApp.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.XtraReports.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevExpress.Xpo.v10.2.xml
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.exe.config
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.exe
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\TIETKIEM.pdb
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\ResolveAssemblyReference.cache
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.ChiTiet_SoTK.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmAbout.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmLoaiTietKiem.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmLogin.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmMain.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmQuyDinh.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_DS_all_STK.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_Giao_Dich.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_RutTien.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.PrintRibbonControllerResources.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.Properties.Resources.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmChangePass.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.FmQuanly.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fmMoSoTietKiem.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XRDesignRibbonControllerResources.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.In_DS_KhachHang.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.XtraReport_DanhsachKhachHang.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.csproj.GenerateResource.Cache
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.exe.licenses
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.exe
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.pdb
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\bin\Debug\DevComponents.DotNetBar2.dll
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_BC_DSHD_ngay.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.fm_BC_DongMoSoThang.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_BC_DSHD_NGAY.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_BC_Mo_Dong_So_Thang.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_DS_all_STK.resources
+D:\HOCKI 5\TIETKIEM_new\TIETKIEM\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_Print_SoTK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\TIETKIEM.exe.config
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\TIETKIEM.exe
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\TIETKIEM.pdb
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.BonusSkins.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.CodeParser.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Charts.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Data.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.ExpressApp.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.ExpressApp.Win.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.OfficeSkins.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Persistent.Base.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.PivotGrid.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.RichEdit.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.SpellChecker.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Utils.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Xpo.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraBars.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.Extensions.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.UI.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraEditors.v10.2.Design.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraEditors.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraGrid.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraLayout.v10.2.Design.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraLayout.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraNavBar.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraPivotGrid.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraPrinting.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraReports.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraReports.v10.2.Extensions.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraRichEdit.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.Core.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.Extensions.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraSpellChecker.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraTreeList.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraVerticalGrid.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraWizard.v10.2.dll
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.RichEdit.v10.2.Core.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.UI.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraCharts.v10.2.Extensions.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraGrid.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraVerticalGrid.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraSpellChecker.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraBars.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraRichEdit.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Utils.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.ExpressApp.Win.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.PivotGrid.v10.2.Core.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.SpellChecker.v10.2.Core.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraLayout.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.Core.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraPivotGrid.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Persistent.Base.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraTreeList.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraPrinting.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraReports.v10.2.Extensions.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraNavBar.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraEditors.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.Extensions.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Data.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraWizard.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.ExpressApp.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraScheduler.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.XtraReports.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\bin\Debug\DevExpress.Xpo.v10.2.xml
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.ChiTiet_SoTK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fmAbout.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fmLoaiTietKiem.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fmLogin.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fmMain.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fmQuyDinh.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_Chart_BC_DSHD_Thang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_Chart_Dong_Mo_So_Thang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_ChiTiet_GD.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_Doi_Mat_Khau.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_DS_all_STK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_Giao_Dich.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_Chart_Doanh_so_Trong_Thang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.PrintRibbonControllerResources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.Properties.Resources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.FmQuanly.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.Quan_li_Tai_Khoan.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_BC_DSHD_NGAY.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_BC_Mo_Dong_So_Thang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_DS_all_STK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_Phieu_GiaoDich.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.report.Xtra_rpt_Print_SoTK.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fmMoSoTietKiem.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.rpt_GiaoDich.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.XRDesignRibbonControllerResources.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.In_DS_KhachHang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_BC_DongMoSoThang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.fm_BC_DSHD_ngay.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.XtraReport_DanhsachKhachHang.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.Quanlichitiet_qltq.resources
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.csproj.GenerateResource.Cache
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.exe.licenses
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.exe
+C:\Users\CONGHAU\Desktop\TIETKIEM\obj\Debug\TIETKIEM.pdb
