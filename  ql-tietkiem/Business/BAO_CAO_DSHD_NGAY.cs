@@ -1,5 +1,3 @@
-
-
 using System;
 using System.Data;
 using System.Data.SqlClient;
@@ -149,16 +147,16 @@ namespace TIETKIEM.Data.Business
             SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "BAO_CAO_DSHD_NGAY_Get_Ma_BC_DSHD",pr);
             return pr[1].Value.ToString();
         }
+
         public static void get_DSHD_Ngay(string Ma_BC,string Ma_Loai_TK, double tongthu,double tongchi)
         {
             EBAO_CAO_DSHD_NGAY get_DSHD_NGAY = new EBAO_CAO_DSHD_NGAY();
             get_DSHD_NGAY.Ma_Loai_TK = Ma_Loai_TK;
             get_DSHD_NGAY.Ngay = DateTime.Today;
             get_DSHD_NGAY.Ma_BC_DSHD = Ma_BC;
-            get_DSHD_NGAY.Tong_Thu = tongthu;
-          
-            
+            get_DSHD_NGAY.Tong_Thu = tongthu;           
         }
+
         public static void Kiemtra_Insert_or_Update(string Ma_Loai_TK, string MLGD, double Tong_Thu)
         {
             //string tongthu,
@@ -170,31 +168,23 @@ namespace TIETKIEM.Data.Business
                     SqlParameter[] pr = new SqlParameter[2];
                     pr[0] = new SqlParameter(@"Ma_Loai_TK", OBAO_CAO_DSHD_NGAY.Ma_Loai_TK = Ma_Loai_TK);
                     pr[1] = new SqlParameter(@"Tong_Thu", OBAO_CAO_DSHD_NGAY.Tong_Thu = Tong_Thu);
-
-                    SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "BAO_CAO_DSHD_NGAY_Update_Tong_Thu", pr);
-                   
+                    SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "BAO_CAO_DSHD_NGAY_Update_Tong_Thu", pr);                   
                 }
                 else
                 {
                     SqlParameter[] pr = new SqlParameter[2];
                     pr[0] = new SqlParameter(@"Ma_Loai_TK", OBAO_CAO_DSHD_NGAY.Ma_Loai_TK = Ma_Loai_TK);
                     pr[1] = new SqlParameter(@"Tong_Chi", OBAO_CAO_DSHD_NGAY.Tong_Chi = Tong_Thu);
-
-                    SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "BAO_CAO_DSHD_NGAY_Update_Tong_Chi", pr);
-                    
+                    SqlHelper.ExecuteNonQuery(CommandType.StoredProcedure, "BAO_CAO_DSHD_NGAY_Update_Tong_Chi", pr);                    
                 }
-              
-
             }
             else // return Insert
             {
                 string ID = NextID();
                 if (MLGD == "MLGD01")
-                {
-                    
+                {                    
                     try
-                    {
-                        
+                    {                        
                         OBAO_CAO_DSHD_NGAY.Ma_BC_DSHD = NextID();
                         OBAO_CAO_DSHD_NGAY.Ma_Loai_TK = Ma_Loai_TK;
                         OBAO_CAO_DSHD_NGAY.Ngay = Convert.ToDateTime(DateTime.Today);
@@ -205,7 +195,6 @@ namespace TIETKIEM.Data.Business
                         //MessageBox.Show( ID.ToString() + "|" + Ma_Loai_TK + "|" + Tong_Thu);
                     }
                     catch { }
-
                 }
                 else
                 {
@@ -218,18 +207,7 @@ namespace TIETKIEM.Data.Business
                     Insert(OBAO_CAO_DSHD_NGAY);
                     //MessageBox.Show(ID.ToString() + "|" + Ma_Loai_TK + "|" + - Tong_Thu);
                 }
-
-
             }
-
-
-        }       
-
-
-
-              
-        
-        
-    }
- 
+        }          
+    } 
 }

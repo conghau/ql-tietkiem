@@ -31,9 +31,7 @@ namespace TIETKIEM
             gridView1.GridControl.Show();
             gridView1.GridControl.Dock = DockStyle.Fill;
             quydinh_split3.PanelVisibility = DevExpress.XtraEditors.SplitPanelVisibility.Panel1;
-            gridView1.GridControl.DataSource = Data.Business.BTHAM_SO.ListAll();
-
-            
+            gridView1.GridControl.DataSource = Data.Business.BTHAM_SO.ListAll();           
            
         }
     
@@ -145,6 +143,7 @@ namespace TIETKIEM
             txt_thoigiantoithieu.Enabled = false;
             txt_Laisuat.Enabled = false;
             txt_KiHan.Enabled = false;
+            System.GC.Collect();
 
            
             
@@ -226,6 +225,7 @@ namespace TIETKIEM
             txt_Laisuat.Enabled = true;
             txt_KiHan.Enabled = true;
             cb_MLTK.Text = Data.Business.BLOAI_TIET_KIEM.NextID();
+            System.GC.Collect();
         }
 
 ///////////////////////////////////////////////////////////////////////       
