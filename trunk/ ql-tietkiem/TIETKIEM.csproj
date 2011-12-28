@@ -262,7 +262,6 @@
     </Compile>
     <Compile Include="Chart\DS_Chart_Doanh_so_Trong_Thang.cs">
       <DependentUpon>DS_Chart_Doanh_so_Trong_Thang.xsd</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Chart\DS_Chart_Doanh_so_Trong_Thang.Designer.cs">
       <AutoGen>True</AutoGen>

@@ -17,6 +17,7 @@ namespace TIETKIEM.Data.Business
             DataTable all = SqlHelper.ExecuteData(CommandType.StoredProcedure, "ACCOUNT_SelectAll", null);
             return all;
         }
+
         public static DataTable SelectTop(int Top)
         {
             SqlParameter[] pr = new SqlParameter[1];

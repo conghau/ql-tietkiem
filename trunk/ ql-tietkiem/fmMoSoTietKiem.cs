@@ -26,13 +26,9 @@ namespace TIETKIEM
             {
                 txt_MLTK.Properties.Items.Add(Data.Business.BLOAI_TIET_KIEM.SelectAll().Rows[i]["Ma_Loai_TK"].ToString());
 
-                //cb_diengiai.Properties.Items.Add(Data.Business.BLOAI_TIET_KIEM.SelectAll().Rows[i]["Ten_Loai_TK"].ToString());
-                
+                //cb_diengiai.Properties.Items.Add(Data.Business.BLOAI_TIET_KIEM.SelectAll().Rows[i]["Ten_Loai_TK"].ToString());                
             }
-            txt_MSGD.Text = Data.Business.BGIAO_DICH.NextID();
-
-
-            
+            txt_MSGD.Text = Data.Business.BGIAO_DICH.NextID();          
         }
        
 
@@ -180,9 +176,6 @@ namespace TIETKIEM
             {
                 try
                 {
-
-
-
                     Data.Entities.EKHACH_HANG Insert_KH = new TIETKIEM.Data.Entities.EKHACH_HANG();
                     Data.Entities.ESO_TIET_KIEM Insert_SoTietKiem = new TIETKIEM.Data.Entities.ESO_TIET_KIEM();
                     Data.Entities.EGIAO_DICH Insert_GiaoDich = new TIETKIEM.Data.Entities.EGIAO_DICH();
@@ -330,7 +323,8 @@ namespace TIETKIEM
         }
         private void btExit_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Dispose();
+            System.GC.Collect();
 
         }
         private void bt_back_Click(object sender, EventArgs e)
@@ -339,7 +333,8 @@ namespace TIETKIEM
         }
         private void bt_Huy_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Dispose();
+            System.GC.Collect();
         }
 
         #endregion
